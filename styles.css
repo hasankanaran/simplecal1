@@ -1,0 +1,55 @@
+body{
+    padding: 0px ;
+    margin: 0px;
+    font-family:Arial, Helvetica, sans-serif;    
+}
+
+.btn{
+    font-size:25px;
+    margin: 8px;
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+     
+}
+.txt{
+    font-size: 25px;
+    width: 180px;
+    height: 35px;
+
+}
+
+.btn-container {
+    display: flex;
+}
+
+
+body{
+    padding: 0px ;
+    margin: 0px;
+    font-family:Arial, Helvetica, sans-serif;    
+}
+
+.btn{
+    font-size:25px;
+    margin: 8px;
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+     
+}
+.txt{
+    font-size: 25px;
+    width: 180px;
+    height: 35px;
+
+}
+
+.btn-container {
+    display: flex;
+    max-width: 300px; 
+    margin: 0 auto;
+}
+
+
+
